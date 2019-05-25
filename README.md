@@ -1,4 +1,4 @@
-# Cancellation Tokens in Rust
+# Co-operative Cancellation Tokens in Rust
 
 [![Build Status](https://travis-ci.org/wez/cancel-rs.svg?branch=master)](https://travis-ci.org/wez/cancel-rs)
 
