@@ -1,4 +1,4 @@
-//! This crate provides a `Token` that can be use to co-operatively
+//! This crate provides a `Token` that can be used to co-operatively
 //! signal when an operation should be canceled.
 //!
 //! ```rust
