@@ -1,0 +1,15 @@
+[package]
+name = "cancel"
+version = "0.1.0"
+authors = ["Wez Furlong"]
+edition = "2018"
+repository = "https://github.com/wez/cancel-rs"
+description = "Simple co-operative cancellation"
+license = "MIT"
+documentation = "https://docs.rs/cancel"
+readme = "README.md"
+
+[dependencies]
+
+[dev-dependencies]
+failure = "0.1"
